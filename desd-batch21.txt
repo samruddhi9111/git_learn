@@ -1,0 +1,7 @@
+info of desd course :Syllabus 
+OS
+ELDD
+ARM
+C
+C++
+
